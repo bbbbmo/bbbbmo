@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=bbbbmo's%20GitHub&fontSize=90)
 
-<img src="https://img.shields.io/badge/Tistory Blog?style=social&logo=tistroy&logoColor=#FFFFFF">
+## ✉️ contact
+
 <p>
   <a href="https://bbbbbmo.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory Blog-ed7409?style=flat&logo=tistory">
@@ -14,15 +15,13 @@
   </a>
 </p>
 
-[🚀 My Portfolio]
-
-## 👤About me
+## 👤 About me
 
 안녕하세요😊
 <br>
 성장을 목표로 개인 프로젝트와 팀 프로젝트를 지속적으로 진행하며, 재사용 가능한 컴포넌트를 지향하는 효율적인 개발 방식을 추구하고 있습니다.
 
-## 🛠️Tech Stacks
+## 🛠️ Tech Stacks
 
 **Front-end**
 
