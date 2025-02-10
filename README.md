@@ -55,7 +55,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbbmo&layout=compact)](https://github.com/bbbbmo/github-readme-stats)
 
-## 🏆 Certifications
+## 🏆 Certificates
 
 - 정보처리기사
 - 컴퓨터활용능력 1급
