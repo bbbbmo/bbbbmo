@@ -6,6 +6,8 @@
 
 ✉️Mail aqw20501@naver.com
 
+[My Portfolio] https://www.notion.so/13af855fd81c80e18254e1cda588f408
+
 ## 👤About me
 
 안녕하세요😊
