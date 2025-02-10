@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=bbbbmo's%20GitHub&fontSize=90)
 
-🤓Tistory Blog https://bbbbbmo.tistory.com/
+[🤓 Tistory Blog] https://bbbbbmo.tistory.com/
 
-📑Notion Blog https://www.notion.so/3d3f5b9a5daf4f3aaceed4cd01e7e91a?pvs=4
+[📑 Notion Blog] https://www.notion.so/3d3f5b9a5daf4f3aaceed4cd01e7e91a?pvs=4
 
-✉️Mail aqw20501@naver.com
+[✉️ Mail] aqw20501@naver.com
 
-[My Portfolio] https://www.notion.so/13af855fd81c80e18254e1cda588f408
+[🚀 My Portfolio] https://www.notion.so/13af855fd81c80e18254e1cda588f408
 
 ## 👤About me
 
@@ -57,3 +57,8 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbbbmo&layout=compact)](https://github.com/bbbbmo/github-readme-stats)
+
+## 🏆 Certifications
+
+- 정보처리기사
+- 컴퓨터활용능력 1급
