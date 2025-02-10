@@ -1,12 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=bbbbmo's%20GitHub&fontSize=90)
 
-[🤓 Tistory Blog] https://bbbbbmo.tistory.com/
+<img src="https://img.shields.io/badge/Tistory Blog?style=social&logo=tistroy&logoColor=#FFFFFF">
+<p>
+  <a href="https://bbbbbmo.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory Blog-ed7409?style=flat&logo=tistory">
+  </a>
+  <a href="https://www.notion.so/3d3f5b9a5daf4f3aaceed4cd01e7e91a?pvs=4">
+    <img src="https://img.shields.io/badge/Notion Blog-ffffff?style=flat&logo=notion&logoColor=black">
+  </a>
+  <img src="https://img.shields.io/badge/aqw20501@naver.com-05f72d?style=flat&logo=naver&logoColor=black">
+  <a href="https://www.notion.so/13af855fd81c80e18254e1cda588f408">
+    <img src="https://img.shields.io/badge/My Portfolio-6e05f7?style=flat&logo=rocket&logoColor=#D33847">
+  </a>
+</p>
 
-[📑 Notion Blog] https://www.notion.so/3d3f5b9a5daf4f3aaceed4cd01e7e91a?pvs=4
-
-[✉️ Mail] aqw20501@naver.com
-
-[🚀 My Portfolio] https://www.notion.so/13af855fd81c80e18254e1cda588f408
+[🚀 My Portfolio]
 
 ## 👤About me
 
